@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @Superdart-2017
-- 👀 I’m interested in ... VIdeogames, movies, anime and books
-- 🌱 I’m currently learning ... Python, java, C and HTML
-- 📫 How to reach me ... In my instragram @Kikejr2017
-- 😄 Pronouns: ... Superdart2017 or Kike
-- ⚡ Fun fact: ...I'm someone who tends to do or say stupid thing uwu but also be serious when is necessary.
-
-<!---
-Superdart-2017/Superdart-2017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👾Welcome+To+my+profile+UwU😄)](https://git.io/typing-svg)
