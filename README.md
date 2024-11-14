@@ -9,7 +9,7 @@ I am a student of Computer Engineering at UNAM, Faculty of Engineering UwU
 - 👾I like video games and I hope to work on one later
 - 🤖I'm an average otaku but I want to program great things
 
-
+![Berserk](IMAGENES/Screenshot_2023-07-21-18-33-52-82_8b1cfbb769bd52fc36fa25a4fcc64305.jpg)
 _______________________________________________________________________________
 
 
