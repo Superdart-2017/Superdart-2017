@@ -3,11 +3,11 @@
 I am a student of Computer Engineering at UNAM, Faculty of Engineering UwU
 
 
-## About me
+## 😄About me😄
 
 - 🤓I'm a programmer in the making owo
 - 🤪I often have very crazy ideas.
-- 👾I like video games and I hope to work on one later
+- 🎮I like video games and I hope to work on one later
 - 🤖I'm an average otaku but I want to program great things
 
 <p align="center">
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 </div>
 
 --------------------------------------------------------------------------------
-## Thanks for stopping by my profile
+## ✨Thanks for stopping by my profile🌟
 <p align="center">  
   <img src="IMAGENES/e18734afb0f9fdd64d055d0ade2b3dbf.gif" alt="Persona 5" width="500">  
 </p>
