@@ -5,6 +5,6 @@ I am a student of Computer Engineering at UNAM, Faculty of Engineering UwU
 
 <div style="text-align: center;">  
   <a href="https://github.com/anuraghazra/github-readme-stats">  
-    <img src="https://github-readme-stats.vercel.app/api?username=Superdart-2017&show_icons=true&theme=radical" />  
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Superdart-2017&show_icons=true&theme=radical" />  
   </a>  
 </div>
