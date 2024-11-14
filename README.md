@@ -3,6 +3,17 @@
 I am a student of Computer Engineering at UNAM, Faculty of Engineering UwU
 ---------------------------------------------------------------------------
 
+About me
+
+🤓I'm a programmer in the making owo
+🤪I often have very crazy ideas.
+👾I like video games and I hope to work on one later
+🤖I'm an average otaku but I want to program great things
+
+_______________________________________________________________________________
+
+
+
 <div style="text-align: center;">  
   <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Superdart-2017&show_icons=true&theme=radical" />  
