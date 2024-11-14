@@ -11,7 +11,11 @@ I am a student of Computer Engineering at UNAM, Faculty of Engineering UwU
 
 ![Berserk](IMAGENES/Screenshot_2023-07-21-18-33-52-82_8b1cfbb769bd52fc36fa25a4fcc64305.jpg)
 _______________________________________________________________________________
+## Languages ​​I use
 
+![C](IMAGENES/C.png)
+![Java](IMAGENES/java.png)
+![Python](IMAGENES/python.jpg)
 
 
 <div style="text-align: center;">  
