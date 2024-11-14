@@ -31,3 +31,8 @@ ________________________________________________________________________________
     <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superdart-2017&layout=donut" />  
   </a>  
 </div>
+
+--------------------------------------------------------------------------------
+## Thanks for stopping by my profile
+
+![Persona5](IMAGENES/e18734afb0f9fdd64d055d0ade2b3dbf.gif)
