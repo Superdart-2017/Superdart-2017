@@ -12,18 +12,14 @@ I am a student of Computer Engineering at UNAM, Faculty of Engineering UwU
 ![Berserk](IMAGENES/Screenshot_2023-07-21-18-33-52-82_8b1cfbb769bd52fc36fa25a4fcc64305.jpg)
 _______________________________________________________________________________
 ## Languages ​​I use
-
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,ruby,vscode,github&theme=dark)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,java,c,ruby,vscode,github" />
   </a>
 </p>
 
-
-<div style="text-align: center;">  
+<p
   <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Superdart-2017&show_icons=true&theme=radical" />  
   </a>  
-</div>
+</p>
