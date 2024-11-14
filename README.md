@@ -14,7 +14,6 @@ I am a student of Computer Engineering at UNAM, Faculty of Engineering UwU
   <img src="IMAGENES/Screenshot_2023-07-21-18-33-52-82_8b1cfbb769bd52fc36fa25a4fcc64305.jpg" alt="Berserk" width="500">
 </p>
 
-![Berserk](IMAGENES/Screenshot_2023-07-21-18-33-52-82_8b1cfbb769bd52fc36fa25a4fcc64305.jpg)
 _______________________________________________________________________________
 ## 👾Urrent Technologies I'm Learning🤖
 <p align="center">
