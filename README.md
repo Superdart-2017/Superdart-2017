@@ -34,5 +34,8 @@ ________________________________________________________________________________
 
 --------------------------------------------------------------------------------
 ## Thanks for stopping by my profile
+<p align="center">  
+  <img src="IMAGENES/e18734afb0f9fdd64d055d0ade2b3dbf.gif" alt="Persona 5" width="500">  
+</p>
 
 ![Persona5](IMAGENES/e18734afb0f9fdd64d055d0ade2b3dbf.gif)
