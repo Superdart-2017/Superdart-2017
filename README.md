@@ -3,7 +3,7 @@
 I am a student of Computer Engineering at UNAM, Faculty of Engineering UwU
 
 
-##<h2 align="center">😄 About me 😄</h2>
+<h2 align="center">😄 About me 😄</h2>
 
 - 🤓I'm a programmer in the making owo
 - 🤪I often have very crazy ideas.
@@ -15,7 +15,7 @@ I am a student of Computer Engineering at UNAM, Faculty of Engineering UwU
 </p>
 
 _______________________________________________________________________________
-##👾Urrent Technologies I'm Learning🤖
+<h2 align="center">👾Urrent Technologies I'm Learning🤖</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,java,c,ruby,vscode,github" />
@@ -23,7 +23,7 @@ _______________________________________________________________________________
 </p>
 
 ________________________________________________________________________________
-##🌟Some Statistics🌟
+<h2 align="center">🌟Some Statistics🌟</h2>
 
 
   <a href="https://github.com/anuraghazra/github-readme-stats">  
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 </div>
 
 --------------------------------------------------------------------------------
-##                     ✨Thanks for stopping by my profile🌟
+<h2 align="center">✨Thanks for stopping by my profile🌟</h2>
 <p align="center">  
   <img src="IMAGENES/e18734afb0f9fdd64d055d0ade2b3dbf.gif" alt="Persona 5" width="500">  
 </p>
