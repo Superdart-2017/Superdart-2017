@@ -13,9 +13,13 @@ I am a student of Computer Engineering at UNAM, Faculty of Engineering UwU
 _______________________________________________________________________________
 ## Languages ​​I use
 
-![C](IMAGENES/C.png)
-![Java](IMAGENES/java.png)
-![Python](IMAGENES/python.jpg)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,ruby,vscode,github&theme=dark)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,java,c,ruby,vscode,github" />
+  </a>
+</p>
 
 
 <div style="text-align: center;">  
