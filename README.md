@@ -22,12 +22,12 @@ _______________________________________________________________________________
 ________________________________________________________________________________
 ## 🌟Some Statistics🌟
 
-<div style="display: flex; justify-content: center; align-items: center;">  
+
   <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Superdart-2017&show_icons=true&theme=radical" />  
   </a>  
 
   <a href="https://github.com/anuraghazra/github-readme-stats">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superdart-2017&layout=donut" />  
+    <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superdart-2017&layout=donut" />  
   </a>  
 </div>
