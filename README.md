@@ -5,7 +5,7 @@ I am a student of Computer Engineering at UNAM, Faculty of Engineering UwU
 
 <h2 align="center">😄 About me 😄</h2>
 
-- 🤓I'm a programmer in the making owo
+- 🤓I'm a programmer in progress owo
 - 🤪I often have very crazy ideas.
 - 🎮I like video games and I hope to work on one later
 - 🤖I'm an average otaku but I want to program great things
