@@ -18,7 +18,7 @@ _______________________________________________________________________________
 <h2 align="center">👾Urrent Technologies I'm Learning🤖</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,java,c,html,cas,js,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=git,github,py,java,c,html,css,js,vscode,github" />
   </a>
 </p>
 
